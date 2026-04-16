@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="应急保障与产线恢复场景示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/>
+      <stop offset="1" stop-color="#071423"/>
+    </linearGradient>
+    <radialGradient id="g" cx="78%" cy="30%" r="62%">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#g)"/>
+
+  <g opacity="0.22" transform="translate(130 210)">
+    <rect x="0" y="0" width="940" height="380" rx="28" fill="#081625" stroke="#ffffff" stroke-opacity="0.14"/>
+    <path d="M80 190h780" stroke="#ffffff" stroke-opacity="0.16" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="240" cy="190" r="34" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.14"/>
+    <circle cx="520" cy="190" r="34" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.14"/>
+    <circle cx="800" cy="190" r="34" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.14"/>
+  </g>
+
+  <g opacity="0.90" transform="translate(930 110)">
+    <circle cx="70" cy="70" r="58" fill="#d97706"/>
+    <path d="M44 70h52M70 44v52" stroke="#071423" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
+

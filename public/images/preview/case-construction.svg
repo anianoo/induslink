@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="现场施工组织场景示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071423"/>
+      <stop offset="1" stop-color="#0b1f33"/>
+    </linearGradient>
+    <radialGradient id="g" cx="25%" cy="22%" r="60%">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#g)"/>
+
+  <g opacity="0.18" transform="translate(140 170)">
+    <rect x="0" y="0" width="920" height="460" rx="26" fill="#081625" stroke="#ffffff" stroke-opacity="0.14"/>
+    <path d="M60 380h800" stroke="#ffffff" stroke-opacity="0.18" stroke-width="6"/>
+    <path d="M120 140h680" stroke="#ffffff" stroke-opacity="0.10" stroke-width="4"/>
+    <path d="M120 200h680" stroke="#ffffff" stroke-opacity="0.10" stroke-width="4"/>
+    <path d="M120 260h680" stroke="#ffffff" stroke-opacity="0.10" stroke-width="4"/>
+  </g>
+
+  <g opacity="0.65" transform="translate(220 220)">
+    <circle cx="40" cy="40" r="10" fill="#d97706"/>
+    <circle cx="80" cy="40" r="10" fill="#0f766e"/>
+  </g>
+</svg>
+

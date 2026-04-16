@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="资讯封面智能工厂示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/>
+      <stop offset="1" stop-color="#071423"/>
+    </linearGradient>
+    <radialGradient id="g" cx="75%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#d97706" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#d97706" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+
+  <g opacity="0.20" transform="translate(120 160)">
+    <rect x="0" y="0" width="960" height="310" rx="24" fill="#081625" stroke="#ffffff" stroke-opacity="0.14"/>
+    <path d="M90 156h780" stroke="#ffffff" stroke-opacity="0.14" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="200" cy="156" r="26" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="520" cy="156" r="26" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="840" cy="156" r="26" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g>
+
+  <g opacity="0.55" transform="translate(150 90)">
+    <path d="M0 0h240" stroke="#0f766e" stroke-opacity="0.55" stroke-width="6"/>
+  </g>
+</svg>
+

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="停机窗口改造切换场景示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071423"/>
+      <stop offset="1" stop-color="#0b1f33"/>
+    </linearGradient>
+    <radialGradient id="g" cx="30%" cy="26%" r="62%">
+      <stop offset="0" stop-color="#0f766e" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#0f766e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#g)"/>
+
+  <g opacity="0.22" transform="translate(150 160)">
+    <rect x="0" y="0" width="900" height="520" rx="28" fill="#081625" stroke="#ffffff" stroke-opacity="0.14"/>
+    <rect x="70" y="90" width="760" height="90" rx="18" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="70" y="220" width="760" height="90" rx="18" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+    <rect x="70" y="350" width="760" height="90" rx="18" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g>
+
+  <g opacity="0.75" transform="translate(260 270)">
+    <circle cx="18" cy="18" r="10" fill="#d97706"/>
+    <circle cx="18" cy="148" r="10" fill="#0f766e"/>
+    <circle cx="18" cy="278" r="10" fill="#60a5fa"/>
+  </g>
+</svg>
+

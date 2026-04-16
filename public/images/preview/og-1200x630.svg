@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="站点分享图">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f33"/>
+      <stop offset="1" stop-color="#071423"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="22%" cy="28%" r="60%">
+      <stop offset="0" stop-color="#d97706" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#d97706" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="78%" cy="22%" r="60%">
+      <stop offset="0" stop-color="#0f766e" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#0f766e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+
+  <g opacity="0.16">
+    <path d="M0 480H1200" stroke="#ffffff"/>
+    <path d="M0 440H1200" stroke="#ffffff" stroke-opacity="0.6"/>
+  </g>
+
+  <g>
+    <rect x="96" y="110" width="88" height="88" rx="18" fill="#d97706"/>
+    <rect x="110" y="124" width="60" height="60" rx="14" fill="#0b1f33" opacity="0.9"/>
+  </g>
+
+  <g fill="#ffffff">
+    <text x="210" y="162" font-size="38" font-family="system-ui, -apple-system, Segoe UI, Arial" font-weight="700">某某自动化</text>
+    <text x="210" y="214" font-size="22" font-family="system-ui, -apple-system, Segoe UI, Arial" opacity="0.78">工业现场电气运维 · 安装施工 · 程序设计</text>
+  </g>
+
+  <g opacity="0.26">
+    <rect x="96" y="280" width="1008" height="250" rx="26" fill="#081625" stroke="#ffffff" stroke-opacity="0.16"/>
+  </g>
+</svg>
+

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="运维线缆处理场景示意">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071423"/>
+      <stop offset="1" stop-color="#0b1f33"/>
+    </linearGradient>
+    <radialGradient id="g" cx="32%" cy="26%" r="65%">
+      <stop offset="0" stop-color="#0f766e" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#0f766e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#g)"/>
+
+  <g opacity="0.22" transform="translate(120 150)">
+    <rect x="0" y="0" width="960" height="520" rx="28" fill="#081625" stroke="#ffffff" stroke-opacity="0.16"/>
+    <path d="M120 420c120-180 260-140 360-300 90-140 250-170 420-80" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="8"/>
+    <path d="M140 450c120-140 240-120 340-250 120-160 300-190 460-120" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="6"/>
+  </g>
+
+  <g opacity="0.85" transform="translate(220 580)">
+    <rect x="0" y="0" width="760" height="66" rx="18" fill="#0b1f33" stroke="#ffffff" stroke-opacity="0.14"/>
+    <circle cx="44" cy="33" r="10" fill="#d97706"/>
+    <circle cx="86" cy="33" r="10" fill="#0f766e"/>
+    <circle cx="128" cy="33" r="10" fill="#60a5fa"/>
+  </g>
+</svg>
+
