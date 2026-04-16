@@ -1,4 +1,4 @@
-# IndusLink - 工业自动化企业官网
+<img width="2523" height="1381" alt="image" src="https://github.com/user-attachments/assets/78220d61-cdf5-42c4-a35b-da1f48f9a450" /># IndusLink - 工业自动化企业官网
 
 ![React](https://img.shields.io/badge/React-18.3.1-blue.svg?style=flat\&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg?style=flat\&logo=typescript)
@@ -7,6 +7,18 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 本项目是一款现代化企业官网前端开源项目，专为工业自动化、制造及 B2B 科技型企业量身定制。基于 **React + TypeScript + Vite** 构建，旨在对外展示品牌形象、核心产品与行业解决方案，同时提供线索咨询、资料下载及求职入口，全方位提升企业的数字化品牌可信度与获客效率。
+
+## 📸 效果预览
+
+以下是本项目的核心页面效果展示：
+
+<p align="center">
+  <img src="https://fastlink.cokey.xyz/f/W0bWI8/%E5%89%AA%E8%B4%B4%E6%9D%BF%201776307420120.png" alt="首页主视觉" width="48%" />
+  <img src="https://fastlink.cokey.xyz/f/B0Axte/%E5%89%AA%E8%B4%B4%E6%9D%BF%201776307498260.png" alt="关于我们" width="48%" />
+</p>
+<p align="center">
+  <img src="https://fastlink.cokey.xyz/f/po2bSj/%E5%89%AA%E8%B4%B4%E6%9D%BF%201776307548338.png" alt="服务页面" width="48%" />
+</p>
 
 ## ✨ 核心特性
 
