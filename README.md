@@ -1,4 +1,4 @@
-<img width="2523" height="1381" alt="image" src="https://fastlink.cokey.xyz/f/W0bWI8/%E5%89%AA%E8%B4%B4%E6%9D%BF%201776307420120.png" /># IndusLink - 工业自动化企业官网
+# IndusLink - 工业自动化企业官网
 
 ![React](https://img.shields.io/badge/React-18.3.1-blue.svg?style=flat\&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg?style=flat\&logo=typescript)
